@@ -1,0 +1,6 @@
+{
+  "name": "机理图谱 · 社科动态机制推演实验室",
+  "description": "面向经济学与社会学经典理论的上帝视角动态机制可视化推演平台，内置 Rodrik (2015) 过早去工业化、Schelling 空间隔离与 Lewis 二元结构交互仿真模型。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
